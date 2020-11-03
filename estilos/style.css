@@ -17,12 +17,9 @@ main {
 }
 
 #wrap {
-    width: 1078px;
-    height: 1078px;
+    width: 1079px;
+    height: 1079px;
     margin: auto;
     background: #e3e3e3;
 }
 
-header h1 {
-    margin: auto;
-}
