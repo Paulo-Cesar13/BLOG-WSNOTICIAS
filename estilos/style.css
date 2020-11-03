@@ -57,3 +57,16 @@ a:hover {
     width: 200px;
 }
 
+#content {
+    float: right;
+    width: 660px;
+}
+
+#sidebar ul {
+    list-style: none;
+}
+
+footer {
+    clear: both;
+}
+
