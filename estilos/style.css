@@ -16,6 +16,14 @@ main {
     box-shadow: 3px 3px 5px rgb(7, 7, 7);
 }
 
+a:link, a:visited {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
 #wrap {
     width: 1075px;
     height: 1075px;
@@ -42,12 +50,6 @@ main {
 
 #menu nav ul li a {
     font-size: 18px;
-    color: red;
-    text-decoration: none;
-}
-
-#menu nav ul li a:hover {
-    text-decoration: underline;
 }
 
 #menu {
