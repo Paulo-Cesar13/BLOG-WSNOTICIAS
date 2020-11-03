@@ -27,5 +27,6 @@ main {
     width: 100px;
     margin: auto;
     padding: 3px;
+    background-color: rgba(204, 64, 64, 0.699);
 }
 
