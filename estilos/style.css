@@ -12,13 +12,13 @@ main {
     width: 1080px;
     height: 1080px;
     margin: auto;
-    padding: 2px;
+    padding: 2px 2px 2px 2px;
     box-shadow: 3px 3px 5px rgb(7, 7, 7);
 }
 
 #wrap {
-    width: 1079px;
-    height: 1079px;
+    width: 1075px;
+    height: 1075px;
     margin: auto;
     background: #e3e3e3;
 }
